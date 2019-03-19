@@ -1,0 +1,58 @@
+a ordem de presedencia do python é
+()
+**
+* / // %
++ -
+
+pra não quebrar a linha utilizar
+end=' '
+
+para forçar quebrar a linha utilizar
+\n
+
+bliblioteca math
+
+ceil faz um aredontamento para cima
+floor faz um aredontamento para baixo
+trunc elimina os numeros da virgula
+pow faz potencia
+sqrt faz raiz quadrada
+factorial calculo de fotorial
+
+
+cores no terminal
+
+começa sempre com \033[m
+antes do m colocar os numeros das cores
+
+sendo \033[style;colortext;background e finalizar com 'm'
+
+style:
+0   sem estilo
+1   coloca o texto em negrito
+4   subliar o text
+7   inverte a config
+
+cor texto
+30  BRANCO
+31  VERMELHO
+32  VERDE
+33  AMARELO
+34  AZUL
+35  LILAS
+36  CIAN
+37  CINZA
+
+cor background:
+40  BRANCO
+41  VERMELHO
+42  VERDE
+43  AMARELO
+44  AZUL
+45  LILAS
+46  CIAN
+47  CINZA
+
+
+
+
